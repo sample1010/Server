@@ -1,0 +1,45 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 31
+  },
+  "auditLog": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/.audit/.f892c4714b017bf95514518b1a0e2f5c2d3ee717-audit.json",
+  "files": [
+    {
+      "date": 1701091480342,
+      "name": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/midway-core.log.2023-11-27",
+      "hash": "6f5a151c9e3a41480c0276ec20f4fb4b"
+    },
+    {
+      "date": 1701228194562,
+      "name": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/midway-core.log.2023-11-29",
+      "hash": "f97292d422e63cc07d7ed59eb2d3c390"
+    },
+    {
+      "date": 1701321178040,
+      "name": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/midway-core.log.2023-11-30",
+      "hash": "a39e162f64bcbd9b3de0f9f73bd30a97"
+    },
+    {
+      "date": 1701761642875,
+      "name": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/midway-core.log.2023-12-05",
+      "hash": "32955fe7f81ae8b88bae2298106206cc"
+    },
+    {
+      "date": 1702281364723,
+      "name": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/midway-core.log.2023-12-11",
+      "hash": "3cd4b4a89e500ac0aff07841f1b45e8d"
+    },
+    {
+      "date": 1703339210238,
+      "name": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/midway-core.log.2023-12-23",
+      "hash": "dccc3c4f90fb3f5180f186e37d607d6e"
+    },
+    {
+      "date": 1703598866139,
+      "name": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/midway-core.log.2023-12-26",
+      "hash": "7e4db8323ef24c59665c080399a825cd"
+    }
+  ],
+  "hashType": "md5"
+}

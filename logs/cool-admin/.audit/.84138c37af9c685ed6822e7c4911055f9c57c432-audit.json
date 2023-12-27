@@ -1,0 +1,45 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 31
+  },
+  "auditLog": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/.audit/.84138c37af9c685ed6822e7c4911055f9c57c432-audit.json",
+  "files": [
+    {
+      "date": 1701091480343,
+      "name": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/common-error.log.2023-11-27",
+      "hash": "01dc84e9d930bd043b63b4d2372d6b65"
+    },
+    {
+      "date": 1701228194564,
+      "name": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/common-error.log.2023-11-29",
+      "hash": "c8c0bb3b78a14139fdb29aba0337aac9"
+    },
+    {
+      "date": 1701340680049,
+      "name": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/common-error.log.2023-11-30",
+      "hash": "0ba3c61bcc66a59c1e34e854c68c927c"
+    },
+    {
+      "date": 1701761642878,
+      "name": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/common-error.log.2023-12-05",
+      "hash": "72df730478a1039b7fc358a351a3ae4f"
+    },
+    {
+      "date": 1702281364725,
+      "name": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/common-error.log.2023-12-11",
+      "hash": "bead16122a598bf18ca340fcf866458e"
+    },
+    {
+      "date": 1703339210240,
+      "name": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/common-error.log.2023-12-23",
+      "hash": "92aa208032bb049537e79d5d5d26219f"
+    },
+    {
+      "date": 1703598866141,
+      "name": "/Users/helen/BondingTechs/Server-develop/logs/cool-admin/common-error.log.2023-12-26",
+      "hash": "6621601b237089de92211397e4e11a10"
+    }
+  ],
+  "hashType": "md5"
+}

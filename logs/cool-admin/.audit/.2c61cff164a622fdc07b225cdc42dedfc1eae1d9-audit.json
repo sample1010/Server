@@ -1,0 +1,15 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 31
+  },
+  "auditLog": "/Users/helen/Desktop/test/Server/logs/cool-admin/.audit/.2c61cff164a622fdc07b225cdc42dedfc1eae1d9-audit.json",
+  "files": [
+    {
+      "date": 1703650671472,
+      "name": "/Users/helen/Desktop/test/Server/logs/cool-admin/common-error.log.2023-12-27",
+      "hash": "5a438054705cf1dad83b1bf155d31036"
+    }
+  ],
+  "hashType": "md5"
+}

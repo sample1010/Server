@@ -1,0 +1,15 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 31
+  },
+  "auditLog": "/Users/helen/Desktop/test/Server/logs/cool-admin/.audit/.0833515236fb7ea7dc878da4d33d9b62dd844152-audit.json",
+  "files": [
+    {
+      "date": 1703650671473,
+      "name": "/Users/helen/Desktop/test/Server/logs/cool-admin/midway-app.log.2023-12-27",
+      "hash": "0e478a34a89d7ae78611c132d6403ec2"
+    }
+  ],
+  "hashType": "md5"
+}
